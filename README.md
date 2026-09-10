@@ -12,7 +12,7 @@ The system analyzes:
 * 🎚️ Pressure
 * ⚡ Energy Consumption
 
-SentinelAI combines **Machine Learning, FastAPI, Streamlit, and SQLite** to provide machine health predictions through an interactive dashboard.
+SentinelAI combines **Machine Learning, FastAPI, Streamlit, and** to provide machine health predictions through an interactive dashboard.
 
 ---
 
